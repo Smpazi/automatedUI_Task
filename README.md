@@ -22,4 +22,4 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/Smpazi/automatedUI_Task.git)>
